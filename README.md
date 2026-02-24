@@ -18,7 +18,11 @@ The analysis focuses on:
 - Publicly available **Kaggle dataset** containing BMW operational and financial data  
 - ~50,000 rows × 16 columns, including:  
   - Model, Year, Engine Size, Fuel Type, Transmission, Region  
-  - Mileage, Units Sold, Price, Revenue, Sales Classification  
+  - Mileage, Units Sold, Price, Revenue, Sales Classification
+ 
+ **Sample Data:**
+  ![Table Overview](Table_overview.png)
+
 
 ---
 
