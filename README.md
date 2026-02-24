@@ -94,9 +94,5 @@ The analysis focuses on:
 - Data modeling: DAX measures, custom tables, and time intelligence  
 - Dashboard development: KPI design, trend and regional visualization  
 - Strategic interpretation: translating raw data into executive insights  
-
----
-
-Executive dashboard design in Power BI
-
-Strategic interpretation of financial and operational data
+-Executive dashboard design in Power BI
+-Strategic interpretation of financial and operational data
