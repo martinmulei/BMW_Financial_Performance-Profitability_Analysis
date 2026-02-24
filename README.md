@@ -63,6 +63,7 @@ The analysis focuses on:
 ---
 
 ## Visualizations & Dashboard
+  ![Dashboard Overview](Dashboard.png)
 
 1. **Executive KPIs** – Revenue vs Target, Units Sold, Profit Margin, YoY Growth  
 2. **Revenue & Margin Trends** – Revenue and profit margin over time (2010–2030)  
